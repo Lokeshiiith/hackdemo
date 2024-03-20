@@ -645,6 +645,8 @@ if st.session_state.access_granted:
                 '- **p-value < 0.05, z-test statistics < 0**': '*Statistically significant decreasing trend*',
                 '- **p-value > 0.05**': '*Fail to reject the null hypothesis of no trend*',
                 '- *Note*': '_It is a non-parametric measure, so it does not make any assumptions about the distribution of the data._'
+                ''' It's important to note that the Mann-Kendall test is non-parametric, meaning it does not assume a specific distribution of the data. This makes it robust and suitable for analyzing trends in time series data, especially when dealing with environmental variables like temperature, precipitation, etc.
+                '''
             }
             for outcome, description in outcomes.items():
                 formatted_text = textwrap.fill(description, width=60)

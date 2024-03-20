@@ -527,3 +527,101 @@
 2024-03-06 01:08:25,247 - INFO - Your Computer IP Address is:10.1.37.98
 2024-03-06 01:16:17,377 - INFO - Your Computer Name is:LOKESH
 2024-03-06 01:16:17,377 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:29:52,415 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:29:52,416 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:29:55,531 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:29:55,531 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:29:58,538 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:29:58,538 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:01,811 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:01,811 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:04,089 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:04,089 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:07,322 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:07,322 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:08,221 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:08,221 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:19,437 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:19,437 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:23,043 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:23,043 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:26,547 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:26,548 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:27,528 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:27,528 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:29,784 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:29,784 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:31,135 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:31,135 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:31,152 - INFO - States: UK
+2024-03-21 01:30:31,152 - INFO - Season: Annually
+2024-03-21 01:30:31,152 - INFO - Analysis_type: Annually
+2024-03-21 01:30:31,153 - INFO - Months: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+2024-03-21 01:30:31,153 - INFO - Interpolation: Linear
+2024-03-21 01:30:31,153 - INFO - Years to Show: [1, 5]
+2024-03-21 01:30:31,153 - INFO - Years to Extract: (1961, 2015)
+2024-03-21 01:30:31,153 - INFO - Selected values logged.
+2024-03-21 01:30:33,450 - INFO - ---Plotted graph for Uttarakhand-Linear-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:30:33,632 - INFO - ---Showing Sen Slope test for Uttarakhand-Linear-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:30:33,851 - INFO - ---Plotted graph for Uttarakhand-Linear-Annual----
+2024-03-21 01:30:33,870 - INFO - ---Showing Sen Slope test for Uttarakhand-Linear-Annual----
+2024-03-21 01:30:44,780 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:44,780 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:51,199 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:51,199 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:55,000 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:55,000 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:56,129 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:30:56,129 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:30:56,139 - INFO - States: UK
+2024-03-21 01:30:56,141 - INFO - Season: Annually
+2024-03-21 01:30:56,141 - INFO - Analysis_type: Annually
+2024-03-21 01:30:56,141 - INFO - Months: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+2024-03-21 01:30:56,141 - INFO - Interpolation: Linear
+2024-03-21 01:30:56,142 - INFO - Years to Show: [1, 5]
+2024-03-21 01:30:56,142 - INFO - Years to Extract: (1961, 2015)
+2024-03-21 01:30:56,142 - INFO - Selected values logged.
+2024-03-21 01:30:56,553 - INFO - ---Plotted graph for Uttarakhand-Linear-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:30:56,631 - INFO - ---Showing Sen Slope test for Uttarakhand-Linear-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:30:56,831 - INFO - ---Plotted graph for Uttarakhand-Linear-Annual----
+2024-03-21 01:30:56,857 - INFO - ---Showing Sen Slope test for Uttarakhand-Linear-Annual----
+2024-03-21 01:34:06,437 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:06,437 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:09,433 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:09,434 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:12,155 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:12,155 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:13,306 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:13,306 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:15,178 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:15,178 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:15,591 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:15,591 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:16,999 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:34:16,999 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:34:17,010 - INFO - States: SK
+2024-03-21 01:34:17,010 - INFO - Season: Annually
+2024-03-21 01:34:17,011 - INFO - Analysis_type: Annually
+2024-03-21 01:34:17,011 - INFO - Months: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+2024-03-21 01:34:17,011 - INFO - Interpolation: MIDW
+2024-03-21 01:34:17,011 - INFO - Years to Show: [1, 5]
+2024-03-21 01:34:17,011 - INFO - Years to Extract: (1991, 2015)
+2024-03-21 01:34:17,011 - INFO - Selected values logged.
+2024-03-21 01:34:17,486 - INFO - ---Plotted graph for Sikkim-MIDW-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:34:17,517 - INFO - ---Showing Sen Slope test for Sikkim-MIDW-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:34:17,639 - INFO - ---Plotted graph for Sikkim-MIDW-Annual----
+2024-03-21 01:34:17,664 - INFO - ---Showing Sen Slope test for Sikkim-MIDW-Annual----
+2024-03-21 01:36:53,002 - INFO - Your Computer Name is:LOKESH
+2024-03-21 01:36:53,004 - INFO - Your Computer IP Address is:10.1.37.98
+2024-03-21 01:36:53,075 - INFO - States: SK
+2024-03-21 01:36:53,076 - INFO - Season: Annually
+2024-03-21 01:36:53,077 - INFO - Analysis_type: Annually
+2024-03-21 01:36:53,079 - INFO - Months: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+2024-03-21 01:36:53,079 - INFO - Interpolation: MIDW
+2024-03-21 01:36:53,080 - INFO - Years to Show: [1, 5]
+2024-03-21 01:36:53,081 - INFO - Years to Extract: (1991, 2015)
+2024-03-21 01:36:53,081 - INFO - Selected values logged.
+2024-03-21 01:36:54,670 - INFO - ---Plotted graph for Sikkim-MIDW-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:36:54,828 - INFO - ---Showing Sen Slope test for Sikkim-MIDW-['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']----
+2024-03-21 01:36:55,151 - INFO - ---Plotted graph for Sikkim-MIDW-Annual----
+2024-03-21 01:36:55,197 - INFO - ---Showing Sen Slope test for Sikkim-MIDW-Annual----
